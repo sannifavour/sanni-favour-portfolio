@@ -4,22 +4,21 @@ import { FaXTwitter } from "react-icons/fa6";
 const socialLinks = [
     {
         icon: FaXTwitter,
-        href: "https://www.linkedin.com/",
+        href: "https://x.com/SanniFav",
     },
     {
         icon: FaGithub,
-        href: "https://github.com/",
+        href: "https://github.com/sannifavour",
     },
     {
         icon: FaFacebookF,
-        href: "https://www.facebook.com/",
+        href: "https://www.facebook.com/enny.liz.92",
     },
     {
         icon: FaInstagram,
-        href: "https://wa.me/",
+        href: "https://www.instagram.com/fav_sanni?stkn=MTBmd3RvOGR5djdhcw==",
     },
 ];
-
 const footerLinks = [
     { href: "#skills", label: "Skills" },
     { href: "#about", label: "About" },
@@ -37,7 +36,7 @@ export const Footer = () => {
                     {/**logo and copyright */}
                     <div className="text-center md:text-left">
                         <a href="#" className="text-xl font-bold tracking-light">
-                            PM<span className="text-primary">.</span>
+                            SF<span className="text-primary">.</span>
                         </a>
                         <p className="text-sm text-muted-foreground mt-2">
                             © {currentYear} Sanni Favour. All rights reserved.

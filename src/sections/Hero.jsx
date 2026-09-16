@@ -9,19 +9,19 @@ import { Download } from "lucide-react";
 const socialLinks = [
     {
         icon: <FaXTwitter />,
-        href: "https://www.linkedin.com/",
+        href: "https://x.com/SanniFav",
     },
     {
         icon: <FaGithub />,
-        href: "https://github.com/",
+        href: "https://https://github.com/sannifavour",
     },
     {
         icon: <FaFacebookF />,
-        href: "https://www.facebook.com/",
+        href: "https://www.facebook.com/enny.liz.92",
     },
     {
         icon: <FaInstagram />,
-        href: "https://wa.me/",
+        href: "https://www.instagram.com/fav_sanni?stkn=MTBmd3RvOGR5djdhcw==",
     },
 ];
 

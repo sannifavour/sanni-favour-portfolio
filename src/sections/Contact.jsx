@@ -8,13 +8,13 @@ const contactInfo = [
         icon: Mail,
         label: "Email",
         value: "sannifavour88@gmail.com",
-        href: "sannifavour88@gmail.com",
+        href: "mailto:sannifavour88@gmail.com",
     },
     {
         icon: Phone,
         label: "Phone",
         value: "07017994118",
-        href: "+2348103997143",
+        href: "tel:07017994118",
     },
     {
         icon: MapPin,
