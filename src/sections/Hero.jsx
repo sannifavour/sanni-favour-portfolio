@@ -13,7 +13,7 @@ const socialLinks = [
     },
     {
         icon: <FaGithub />,
-        href: "https://https://github.com/sannifavour",
+        href: "https://github.com/sannifavour",
     },
     {
         icon: <FaFacebookF />,
